@@ -1,0 +1,12 @@
+D:\WORKS\Mini Project\Mini Project\Mini Project\obj\Debug\Mini Project.vbprojAssemblyReference.cache
+D:\WORKS\Mini Project\Mini Project\Mini Project\obj\Debug\Mini_Project.frm_login.resources
+D:\WORKS\Mini Project\Mini Project\Mini Project\obj\Debug\Mini_Project.Resources.resources
+D:\WORKS\Mini Project\Mini Project\Mini Project\obj\Debug\Mini Project.vbproj.GenerateResource.cache
+D:\WORKS\Mini Project\Mini Project\Mini Project\bin\Debug\Mini Project.exe.config
+D:\WORKS\Mini Project\Mini Project\Mini Project\bin\Debug\Mini Project.exe
+D:\WORKS\Mini Project\Mini Project\Mini Project\bin\Debug\Mini Project.pdb
+D:\WORKS\Mini Project\Mini Project\Mini Project\bin\Debug\Mini Project.xml
+D:\WORKS\Mini Project\Mini Project\Mini Project\obj\Debug\Mini Project.exe
+D:\WORKS\Mini Project\Mini Project\Mini Project\obj\Debug\Mini Project.xml
+D:\WORKS\Mini Project\Mini Project\Mini Project\obj\Debug\Mini Project.pdb
+D:\WORKS\Mini Project\Mini Project\Mini Project\obj\Debug\Mini_Project.frm_main.resources
